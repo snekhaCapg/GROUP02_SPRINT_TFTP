@@ -1,0 +1,1908 @@
+Client:: info log:: Requesting file from server
+Client:: info log:: Requesting file from server
+Warning log:: Last acknowledgment has not reachedInfo log:: New file successfully made
+Client:: info log:: Requesting file from server
+Warning log:: Last acknowledgment has not reachedInfo log:: New file successfully made
+
+~~Tue Sep  6 13:54:28 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 13:54:28 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Tue Sep  6 13:54:28 2022
+	Info log:: Client sent data
+----------
+
+~~Tue Sep  6 13:54:28 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 14:01:25 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 14:01:25 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 14:01:25 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 14:01:25 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 14:01:25 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 14:01:25 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Tue Sep  6 14:01:25 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 14:12:45 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 14:12:45 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 14:12:45 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 14:12:45 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 14:12:45 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 14:12:45 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Tue Sep  6 14:12:45 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	maximum tries function call
+
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	debug log:: Calculating the size of file
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	Info log:: Reading file data packet
+
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	debug log:: Sending file data packets
+
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	info log:: Client: sent bytes to server
+
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 14:13:19 2022
+	Info log:: Client: got packet
+
+----------
+
+~~Tue Sep  6 14:22:11 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 14:22:11 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 14:22:11 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 14:22:11 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 14:22:54 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 14:22:54 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 14:22:54 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 14:22:54 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 14:22:54 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 14:22:54 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Tue Sep  6 14:22:54 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	maximum tries function call
+
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	debug log:: Calculating the size of file
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Info log:: Reading file data packet
+
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	debug log:: Sending file data packets
+
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	info log:: Client: sent bytes to server
+
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Info log:: Client: got packet
+
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Info log:: Client sent data
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 17:47:15 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 17:47:15 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 17:47:15 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 17:47:15 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 17:47:55 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 17:47:55 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 17:47:55 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 17:47:55 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Info log:: Client sent data
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Info log:: Client sent data
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Info log:: Client sent to server
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Info log:: Client: received packets from
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Info log:: Client sent data
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	maximum tries function call
+
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	debug log:: Calculating the size of file
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Info log:: Reading file data packet
+
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	debug log:: Sending file data packets
+
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	info log:: Client: sent bytes to server
+
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Info log:: Client: got packet
+
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Warning Error:: Client: error packet received
+
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	maximum tries function call
+
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Warning log:: Client: File does not exist
+
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	maximum tries function call
+
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Warning log:: Client: File does not exist
+
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	maximum tries function call
+
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Warning log:: Client: File does not exist
+
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	maximum tries function call
+
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	debug log:: Calculating the size of file
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Info log:: Reading file data packet
+
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	debug log:: Sending file data packets
+
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	info log:: Client: sent bytes to server
+
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Info log:: Client: got packet
+
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Warning Error:: Client: error packet received
+
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	maximum tries function call
+
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	debug log:: Calculating the size of file
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Info log:: Reading file data packet
+
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	debug log:: Sending file data packets
+
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	info log:: Client: sent bytes to server
+
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Info log:: Client: got packet
+
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Warning Error:: Client: error packet received
+
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	maximum tries function call
+
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Warning log:: Client: File does not exist
+
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Info log:: Client sent to server
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Info log:: Client: received packets from
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Info log:: Client sent data
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Wed Sep  7 10:10:34 2022
+	Warning log:: Invalid number of arguments
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Info log:: Client sent to server
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Info log:: Client: received packets from
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Info log:: Client sent data
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Wed Sep  7 11:42:39 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Wed Sep  7 11:42:39 2022
+	Info log:: Client sent to server
+----------
+
+~~Wed Sep  7 11:42:39 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Wed Sep  7 11:42:39 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Wed Sep  7 11:42:53 2022
+	Info log:: Client: received packets from
+----------
+
+~~Wed Sep  7 11:42:53 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Wed Sep  7 11:42:53 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Info log:: Client sent to server
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Info log:: Client: received packets from
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	maximum tries function call
+
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	debug log:: Calculating the size of file
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Info log:: Reading file data packet
+
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	debug log:: Sending file data packets
+
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	info log:: Client: sent bytes to server
+
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Info log:: Client: got packet
+
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Info log:: Client sent to server
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Info log:: Client: received packets from
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	maximum tries function call
+
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	debug log:: Calculating the size of file
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Info log:: Reading file data packet
+
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	debug log:: Sending file data packets
+
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	info log:: Client: sent bytes to server
+
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Info log:: Client: got packet
+
+----------
+
+~~Wed Sep  7 13:10:25 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Wed Sep  7 13:10:25 2022
+	Info log:: Client sent to server
+----------
+
+~~Wed Sep  7 13:10:25 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Wed Sep  7 13:10:25 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Wed Sep  7 13:11:21 2022
+	Warning log:: Invalid number of arguments
+----------
+
+~~Wed Sep  7 13:11:51 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Wed Sep  7 13:11:51 2022
+	Info log:: Client sent to server
+----------
+
+~~Wed Sep  7 13:11:51 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Wed Sep  7 13:11:51 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Wed Sep  7 13:12:33 2022
+	Fatal log:: Client: recvfrom
+----------
+
+~~Wed Sep  7 13:12:33 2022
+	Info log:: Client: received packets from
+----------
+
+~~Wed Sep  7 13:12:33 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Wed Sep  7 13:12:33 2022
+	Info log:: Client sent data
+----------
+
+~~Wed Sep  7 13:12:33 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Info log:: Client sent to server
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Info log:: Client: received packets from
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Info log:: Client sent data
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	maximum tries function call
+
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	debug log:: Calculating the size of file
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Info log:: Reading file data packet
+
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	debug log:: Sending file data packets
+
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	info log:: Client: sent bytes to server
+
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Info log:: Client: got packet
+
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Info log:: Client sent to server
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Info log:: Client: received packets from
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Info log:: Client sent data
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	maximum tries function call
+
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	debug log:: Calculating the size of file
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Info log:: Reading file data packet
+
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	debug log:: Sending file data packets
+
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	info log:: Client: sent bytes to server
+
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Info log:: Client: got packet
+
+----------
+
+~~Thu Sep  8 08:05:43 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Thu Sep  8 08:05:43 2022
+	Info log:: Client sent to server
+----------
+
+~~Thu Sep  8 08:05:43 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Thu Sep  8 08:05:43 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Thu Sep  8 08:06:17 2022
+	Fatal log:: Client: recvfrom
+----------
+
+~~Thu Sep  8 08:06:17 2022
+	Info log:: Client: received packets from
+----------
+
+~~Thu Sep  8 08:06:17 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Thu Sep  8 08:06:17 2022
+	Info log:: Client sent data
+----------
+
+~~Thu Sep  8 08:06:17 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Thu Sep  8 08:06:37 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Thu Sep  8 08:06:37 2022
+	Info log:: Client sent to server
+----------
+
+~~Thu Sep  8 08:06:37 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Thu Sep  8 08:06:37 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Thu Sep  8 08:06:45 2022
+	Fatal log:: Client: recvfrom
+----------
+
+~~Thu Sep  8 08:06:45 2022
+	Info log:: Client: received packets from
+----------
+
+~~Thu Sep  8 08:06:45 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Thu Sep  8 08:06:45 2022
+	Info log:: Client sent data
+----------
+
+~~Thu Sep  8 08:06:45 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Info log:: Client sent to server
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Info log:: Client: received packets from
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Info log:: Client sent data
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Info log:: Client sent to server
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Info log:: Client: received packets from
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Info log:: Client sent data
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Info log:: Client sent to server
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Info log:: Client: received packets from
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Thu Sep  8 10:50:40 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Thu Sep  8 10:50:40 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Thu Sep  8 10:50:40 2022
+	maximum tries function call
+
+----------
+
+~~Thu Sep  8 10:50:40 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Thu Sep  8 10:50:40 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 10:50:46 2022
+	Warning log:: Client: Timeout
+----------
+
+~~Thu Sep  8 10:50:46 2022
+	Warning log:: Client: timeout
+----------
+
+~~Thu Sep  8 10:50:46 2022
+	Info log:: Client sent bytes again
+----------
+
+~~Thu Sep  8 10:50:46 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 10:50:52 2022
+	Warning log:: Client: Timeout
+----------
+
+~~Thu Sep  8 10:50:52 2022
+	Warning log:: Client: timeout
+----------
+
+~~Thu Sep  8 10:50:52 2022
+	Info log:: Client sent bytes again
+----------
+
+~~Thu Sep  8 10:50:52 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 10:50:58 2022
+	Warning log:: Client: Timeout
+----------
+
+~~Thu Sep  8 10:50:58 2022
+	Warning log:: Client: timeout
+----------
+
+~~Thu Sep  8 10:50:58 2022
+	Info log:: Client sent bytes again
+----------
+
+~~Thu Sep  8 10:50:58 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 10:51:04 2022
+	Warning log:: Client: Timeout
+----------
+
+~~Thu Sep  8 10:51:04 2022
+	Warning log:: Client: timeout
+----------
+
+~~Thu Sep  8 10:51:04 2022
+	Info log:: Client sent bytes again
+----------
+
+~~Thu Sep  8 10:51:04 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 10:51:10 2022
+	Warning log:: Client: Timeout
+----------
+
+~~Thu Sep  8 10:51:10 2022
+	Warning log:: Client: timeout
+----------
+
+~~Thu Sep  8 10:51:10 2022
+	Info log:: Client sent bytes again
+----------
+
+~~Thu Sep  8 10:51:10 2022
+	Warning log:: Client: ack expecting but got
+
+----------
+
+~~Thu Sep  8 10:51:13 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Thu Sep  8 10:51:13 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Thu Sep  8 10:51:13 2022
+	maximum tries function call
+
+----------
+
+~~Thu Sep  8 10:51:13 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Thu Sep  8 10:51:13 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 10:51:19 2022
+	Warning log:: Client: Timeout
+----------
+
+~~Thu Sep  8 10:51:19 2022
+	Warning log:: Client: timeout
+----------
+
+~~Thu Sep  8 10:51:19 2022
+	Info log:: Client sent bytes again
+----------
+
+~~Thu Sep  8 10:51:19 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 10:51:25 2022
+	Warning log:: Client: Timeout
+----------
+
+~~Thu Sep  8 10:51:25 2022
+	Warning log:: Client: timeout
+----------
+
+~~Thu Sep  8 10:51:25 2022
+	Info log:: Client sent bytes again
+----------
+
+~~Thu Sep  8 10:51:25 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 10:51:42 2022
+	Warning log:: Client: Timeout
+----------
+
+~~Thu Sep  8 10:51:42 2022
+	Warning log:: Client: timeout
+----------
+
+~~Thu Sep  8 10:51:42 2022
+	Info log:: Client sent bytes again
+----------
+
+~~Thu Sep  8 10:51:42 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	maximum tries function call
+
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	debug log:: Calculating the size of file
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Info log:: Reading file data packet
+
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	debug log:: Sending file data packets
+
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	info log:: Client: sent bytes to server
+
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Info log:: Client: got packet
+
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Warning Error:: Client: error packet received
+
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Info log:: Client sent to server
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Info log:: Client: received packets from
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Debug log:: Sending ack data packet
+
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Info log:: Client sent data
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Thu Sep  8 11:47:19 2022
+	Warning log:: Invalid number of arguments
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Client:: info log:: Requesting file from server
+
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Info log:: Client sent to server
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Debug log:: Receiving actual file
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Info log:: Receiving file data packet
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Info log:: Client: received packets from
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Warning log:: Last acknowledgment has not reached
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Info log:: New file successfully made
+
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Client::info log::Writing file to server
+
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Info log:: Send data to the server
+
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	maximum tries function call
+
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	debug log:: Calculating the size of file
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Info log:: Reading file data packet
+
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	debug log:: Sending file data packets
+
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	info log:: Client: sent bytes to server
+
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Debug log:: Maximum Tries Function
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Debug log:: Client: Timeout check
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Info log:: Client: got packet
+
+----------

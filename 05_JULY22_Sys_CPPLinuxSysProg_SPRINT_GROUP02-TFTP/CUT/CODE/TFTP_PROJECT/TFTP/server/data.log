@@ -1,0 +1,1120 @@
+
+~~Tue Sep  6 14:22:54 2022
+	Debug log:: Starting to send file
+----------
+
+~~Tue Sep  6 14:22:54 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Tue Sep  6 14:22:54 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Debug log:: Starting to send file
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Tue Sep  6 14:27:32 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Debug log:: Starting to send file
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Tue Sep  6 14:31:42 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Info log:: Server got packet from
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Info log:: Server sent to client
+----------
+
+~~Tue Sep  6 14:32:23 2022
+	Info log:: Server: New file made
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Warning log:: Server: Error file not found
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Debug log:: Server: Sendto()
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Warning log:: Server: Read request unsuccesful
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 17:35:59 2022
+	fatal log:: Server: Invalid request
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Warning log:: Server: Error file not found
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Debug log:: Server: Sendto()
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Warning log:: Server: Read request unsuccesful
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 17:37:47 2022
+	fatal log:: Server: Invalid request
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Warning log:: Server: Error file not found
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Debug log:: Server: Sendto()
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Warning log:: Server: Read request unsuccesful
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 17:43:19 2022
+	fatal log:: Server: Invalid request
+----------
+
+~~Tue Sep  6 17:47:15 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 17:47:27 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 17:47:27 2022
+	Warning log:: Server: Error file not found
+----------
+
+~~Tue Sep  6 17:47:27 2022
+	Debug log:: Server: Sendto()
+----------
+
+~~Tue Sep  6 17:47:27 2022
+	Warning log:: Server: Read request unsuccesful
+----------
+
+~~Tue Sep  6 17:47:44 2022
+	Warning log:: ---Server socket---
+----------
+
+~~Tue Sep  6 17:48:40 2022
+	Warning log:: ---Server socket---
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Warning log:: Server: Error file not found
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Debug log:: Server: Sendto()
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Warning log:: Server: Read request unsuccesful
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 17:49:08 2022
+	fatal log:: Server: Invalid request
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Warning log:: Server: Error file not found
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Debug log:: Server: Sendto()
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Warning log:: Server: Read request unsuccesful
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 17:49:48 2022
+	fatal log:: Server: Invalid request
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Warning log:: Server: Error file not found
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Debug log:: Server: Sendto()
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Warning log:: Server: Read request unsuccesful
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 18:07:49 2022
+	fatal log:: Server: Invalid request
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Debug log:: Starting to send file
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Tue Sep  6 18:09:39 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Info log:: Server got packet from
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Debug log:: Server: Sending error packet
+----------
+
+~~Tue Sep  6 18:14:47 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Info log:: Server got packet from
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Warning log:: Server: got error packet
+----------
+
+~~Tue Sep  6 18:15:09 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Info log:: Server got packet from
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Warning log:: Server: got error packet
+----------
+
+~~Tue Sep  6 18:16:18 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Info log:: Server got packet from
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Warning log:: Server: got error packet
+----------
+
+~~Tue Sep  6 18:16:47 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Info log:: Server got packet from
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Debug log:: Server: Sending error packet
+----------
+
+~~Tue Sep  6 18:17:53 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Info log:: Server got packet from
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Debug log:: Server: Sending error packet
+----------
+
+~~Tue Sep  6 18:18:27 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Info log:: Server got the packet
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Debug log:: Server: Read request
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Info log:: Server got packet from
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Warning log:: Server: got error packet
+----------
+
+~~Tue Sep  6 18:18:37 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Info log:: Server got the packet
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Debug log:: Server: Read request
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Debug log:: Starting to send file
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Wed Sep  7 09:19:51 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Info log:: Server got the packet
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Debug log:: Server: Read request
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Debug log:: Starting to send file
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Wed Sep  7 10:13:04 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Wed Sep  7 11:42:39 2022
+	Info log:: Server got the packet
+----------
+
+~~Wed Sep  7 11:42:53 2022
+	Debug log:: Server: Read request
+----------
+
+~~Wed Sep  7 11:42:53 2022
+	Debug log:: Starting to send file
+----------
+
+~~Wed Sep  7 11:42:53 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Wed Sep  7 11:42:53 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Info log:: Server got the packet
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Debug log:: Server: Read request
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Debug log:: Starting to send file
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Wed Sep  7 11:44:09 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Info log:: Server got the packet
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Debug log:: Server: Read request
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Info log:: Server got packet from
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Info log:: Server sent to client
+----------
+
+~~Wed Sep  7 11:44:31 2022
+	Info log:: Server: New file made
+----------
+
+~~Wed Sep  7 12:02:13 2022
+	Warning log:: ---Server socket---
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Info log:: Server got the packet
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Debug log:: Server: Read request
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Debug log:: Starting to send file
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Wed Sep  7 12:02:53 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Info log:: Server got the packet
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Debug log:: Server: Read request
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Info log:: Server got packet from
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Info log:: Server sent to client
+----------
+
+~~Wed Sep  7 12:03:19 2022
+	Info log:: Server: New file made
+----------
+
+~~Wed Sep  7 13:10:25 2022
+	Info log:: Server got the packet
+----------
+
+~~Wed Sep  7 13:12:07 2022
+	Debug log:: Server: Read request
+----------
+
+~~Wed Sep  7 13:12:07 2022
+	Debug log:: Starting to send file
+----------
+
+~~Wed Sep  7 13:12:07 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Wed Sep  7 13:12:07 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Wed Sep  7 13:12:33 2022
+	Info log:: Server got the packet
+----------
+
+~~Wed Sep  7 13:12:33 2022
+	Debug log:: Server: Read request
+----------
+
+~~Wed Sep  7 13:12:33 2022
+	fatal log:: Server: Invalid request
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Info log:: Server got the packet
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Debug log:: Server: Read request
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Debug log:: Starting to send file
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Wed Sep  7 16:24:45 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Info log:: Server got the packet
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Debug log:: Server: Read request
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Info log:: Server got packet from
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Info log:: Server sent to client
+----------
+
+~~Wed Sep  7 16:25:26 2022
+	Info log:: Server: New file made
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Debug log:: Starting to send file
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Thu Sep  8 07:51:14 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Info log:: Server got packet from
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Info log:: Server sent to client
+----------
+
+~~Thu Sep  8 07:51:41 2022
+	Info log:: Server: New file made
+----------
+
+~~Thu Sep  8 08:06:10 2022
+	Warning log:: ---Server socket---
+----------
+
+~~Thu Sep  8 08:08:30 2022
+	Warning log:: ---Server socket---
+----------
+
+~~Thu Sep  8 08:08:30 2022
+	Warning log:: ---Server socket---
+----------
+
+~~Thu Sep  8 08:08:30 2022
+	fatal log:: ERROR ---> Server failed to bind
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Debug log:: Starting to send file
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Thu Sep  8 08:09:18 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Debug log:: Starting to send file
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Thu Sep  8 10:19:18 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Debug log:: Starting to send file
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Thu Sep  8 10:49:48 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Thu Sep  8 10:50:40 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Info log:: Server got packet from
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Info log:: Server: last ack sending
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Info log:: Server: New file made
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Info log:: Server got packet from
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Sending error packet
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Info log:: Server got packet from
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Sending error packet
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Info log:: Server got packet from
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Sending error packet
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Info log:: Server got packet from
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Debug log:: Server: Sending error packet
+----------
+
+~~Thu Sep  8 10:51:47 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Info log:: Server got packet from
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Debug log:: Server: Sending error packet
+----------
+
+~~Thu Sep  8 10:51:58 2022
+	Warning log:: ---Server: Write request unsuccesful---
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Debug log:: Starting to send file
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Thu Sep  8 11:11:13 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Thu Sep  8 11:46:50 2022
+	Warning log:: ---Server socket---
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Debug log:: Starting to send file
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Debug log:: Server: Maxtries
+----------
+
+~~Thu Sep  8 11:47:36 2022
+	Info log:: Server: Got packet from client
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Info log:: Server got the packet
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Debug log:: Server: Read request
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Debug log:: ---Server= Write request---
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Debug log:: Server: Receiving packet data
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Info log:: Server got packet from
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Info log:: Server sent to client
+----------
+
+~~Thu Sep  8 11:49:09 2022
+	Info log:: Server: New file made
+----------

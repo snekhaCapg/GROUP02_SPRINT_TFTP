@@ -1,0 +1,4 @@
+Server::getServer_port_UT : OK
+Server::getIp_addr_UT : OK
+Server::testServerClass : OK
+OK (3)

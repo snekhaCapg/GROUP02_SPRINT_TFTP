@@ -1,0 +1,10 @@
+Client::getIpAdd_UT : assertion
+Client::getFileName_UT : OK
+Client_UT.cpp:30:Assertion
+Test name: Client::getIpAdd_UT
+equality assertion failed
+- Expected: 127.0.0.0
+- Actual  : 127.0.0.1
+
+Failures !!!
+Run: 2   Failure total: 1   Failures: 1   Errors: 0

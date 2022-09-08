@@ -1,0 +1,18 @@
+FTPServer::getServer_port_UT : OK
+TFTPServer::getIp_addr_UT : OK
+TFTPServer::validIp_addr_UT : OK
+TFTPServer::setIp_addr_UT : assertion
+TFTPServer::testServerClass : assertion
+Test name : Server:: setIp_addr_UT
+equality assertion failed 
+- Expected: 1
+- Actual  : 0
+
+server_UT.cpp: Assertion
+Test name: Server::testServerClass
+equality assertion failed
+- Expected: "127.0.0.1"
+- Actual  : "127.0.0.0"
+
+Failures !!!
+Run: 5   Failure total: 2 Failure: 2 Errors: 0
